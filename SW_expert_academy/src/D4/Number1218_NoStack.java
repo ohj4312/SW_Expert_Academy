@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 //발생하는 문제 : (<)> 일경우 , )( 일경우를 맞는 걸로 한다.
 public class Number1218_NoStack {
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		//System.setIn(new FileInputStream("src/input (5).txt"));
+		//System.setIn(new FileInputStream("src/D4/input (5).txt"));
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		int answer=1;
 		

@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 public class Number1233 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		System.setIn(new FileInputStream("src/input (9).txt"));
+		System.setIn(new FileInputStream("src/D4/input (9).txt"));
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		
 		for(int t=1;t<=10;t++) {

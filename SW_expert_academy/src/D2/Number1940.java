@@ -35,6 +35,8 @@ public class Number1940 {
 			
 			//출력
 			System.out.println("#"+i+" "+move);
+		
 		}
+		
 	}
 }

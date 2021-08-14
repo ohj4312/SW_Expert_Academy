@@ -36,7 +36,7 @@ public class Number9229 {
 	
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		System.setIn(new FileInputStream("src/sample_input (1).txt"));
+		//System.setIn(new FileInputStream("src/sample_input (1).txt"));
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		
 		int t=Integer.parseInt(br.readLine());
