@@ -12,7 +12,7 @@
 <br>
 
 
-> - Number 1545  &nbsp; |  &nbsp; [Solution Code](./SW_expert_academy/src/Number1545.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D1/N1545.md)
+> - Number 1545  &nbsp; |  &nbsp; [Solution Code](./Number1545.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D1/N1545.md)
 > 
 > - Number 1933  &nbsp; |  &nbsp; [Solution Code](./Number1933.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D1/N1933.md)
 >- Number 1936 &nbsp; |  &nbsp; [Solution Code](./Number1936.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D1/N1936.md)
