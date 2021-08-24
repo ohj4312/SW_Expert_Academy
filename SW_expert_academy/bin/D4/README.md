@@ -18,6 +18,8 @@
 > - Number 1218  &nbsp; |  &nbsp; [Solution Code](./Number1218.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N1954.md)
 >- Number 1223 &nbsp; |  &nbsp; [Solution Code](./Number1223.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 >- Number 1233 &nbsp; |  &nbsp; [Solution Code](./Number1233.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
+>- Number 3289 &nbsp; |  &nbsp; [Solution Code](./Number3289.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 >- Number 5432 &nbsp; |  &nbsp; [Solution Code](./Number5432.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
+>- Number 7465 &nbsp; |  &nbsp; [Solution Code](./Number7465.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 
 
