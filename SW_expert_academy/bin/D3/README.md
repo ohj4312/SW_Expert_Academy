@@ -19,6 +19,7 @@
 >- Number 1289 &nbsp; |  &nbsp; [Solution Code_StringBuider](./Number1289_useStringBuilder.java)  &nbsp; /  &nbsp; [Solution Code_ToCharArray](./Number1289_useToCharArray.java)  &nbsp; /  &nbsp; [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 >- Number 1873 &nbsp; |  &nbsp; [Solution Code](./Number1873.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 >- Number 2805 &nbsp; |  &nbsp; [Solution Code](./Number2805.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
+>- Number 3307 &nbsp; |  &nbsp; [Solution Code](./Number3307.java)  &nbsp; /  &nbsp;  [Explanation]
 >- Number 3499 &nbsp; |  &nbsp; [Solution Code](./Number3499.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 >- Number 6806 &nbsp; |  &nbsp; [Solution Code](./Number6806.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
 >- Number 9229 &nbsp; |  &nbsp; [Solution Code](./Number9229.java)  &nbsp; /  &nbsp;  [Explanation](./SW_expert_acdemy/README/D2/N2001.md)
